@@ -1,0 +1,14 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  title: Test Discovery 1
+  name: test-discovery-product-1
+  description: Test
+  productType: software product
+  organization: group:default/ssg
+spec:
+  type: product
+  lifecycle: initiation
+  system: system:default/analog-devices-products
+  owner: group:default/ssg
