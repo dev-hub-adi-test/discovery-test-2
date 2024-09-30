@@ -2,8 +2,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  title: Test Discovery 1
-  name: test-discovery-product-1
+  title: Test Discovery 2
+  name: test-discovery-product-2
   description: Test
   productType: software product
   organization: group:default/ssg
